@@ -1,0 +1,21 @@
+{
+    "expo": {
+        "name": "Charity Finder",
+        "slug": "charity-finder-app",
+        "version": "1.0.0",
+        "orientation": "portrait",
+
+        "ios": {
+            "supportsTablet": true,
+            "bundleIdentifier": "charity-finder-maz",
+            "buildNumber": "1.0.0"
+        },
+        "android": {
+            "adaptiveIcon": {
+                "backgroundColor": "#FFFFFF"
+            },
+            "package": "charity-finder-maz",
+            "versionCode": 1
+        },
+    }
+}
