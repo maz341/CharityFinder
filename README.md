@@ -39,13 +39,13 @@ Install Expo from App Store or Play Store, Login and Scan QR to test the applica
   <img src='https://gitlab.com/maz341/charity-finder/-/raw/main/assets/screenshots/6.png' width='200' alt='Screenshot 6'>
 </div>
 
-
+<!-- 
 #### Video Demo:
 
 [Video Link](https://gitlab.com/maz341/charity-finder/-/blob/main/assets/screenshots/recording.mp4)
 
 ![Video Demo](https://gitlab.com/maz341/charity-finder/-/raw/main/assets/screenshots/recording.mp4)
-
+ -->
 ## 🔗 Links
 [![Website](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://maazkamal.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazkamal/)
